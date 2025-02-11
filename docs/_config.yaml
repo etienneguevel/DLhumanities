@@ -1,0 +1,5 @@
+title: Website DLhumanities
+description: Website for the Digital Literacies for the Humanities project
+remote_theme: "mmistakes/minimal-mistakes"
+plugins:
+  - jekyll-include-cache
